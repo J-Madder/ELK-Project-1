@@ -110,5 +110,5 @@ Which file do you update to make Ansible run the playbook on a specific machine?
 - Configure the /etc/ansible/hosts file to add the webservers and elk IP addresses.
 
 Which URL do you navigate to in order to check that the ELK server is running?
--http://20.98.202.43:5601/app/kibana
+- http://20.98.202.43:5601/app/kibana
 
