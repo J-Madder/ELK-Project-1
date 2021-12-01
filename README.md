@@ -64,7 +64,7 @@ A summary of the access policies in place can be found in the table below.
 
 | Name     | Publicly Accessible | Allowed IP Addresses |
 |----------|---------------------|----------------------|
-| Jump Box | Yes              | 98.47.88.196    |
+| Jump Box | Yes              | xx.xx.xx.xxx    |
 |    Web-1      |       No              |          10.0.0.4            |
 |    Web-2      |       No              |          10.0.0.4            |
 |     Elk-Server     |         No            |         10.0.0.4             |
